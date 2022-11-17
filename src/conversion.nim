@@ -172,12 +172,3 @@ proc convertJsonToNim*(jsonInput: string, public: bool, objName = 1): string =
     result = strResult
 
 
-
-
-#TODO:
-    # - add support for arrays
-    # - add support for nested objects
-    # - add support for null values
-    # - add support for ref objects
-    # - README
-    # - webpage and website?

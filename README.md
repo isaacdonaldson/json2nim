@@ -17,3 +17,11 @@ nimble build
 ```bash
 json2nim -h
 ```
+
+## Roadmap
+
+- [ ] Make sure this works for more than trivial cases
+- [ ] Add support for `ref object` types
+- [ ] Experiemnt with JS version
+- [ ] Seperate JS and CLI version
+- [ ] Make a website for it?
