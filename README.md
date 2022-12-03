@@ -18,7 +18,7 @@ nimble build
 json2nim -h
 ```
 
-## Roadmap
+## Roadmap if ever used
 
 - [ ] Make sure this works for more than trivial cases
 - [ ] Add support for `ref object` types
