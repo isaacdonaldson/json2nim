@@ -24,4 +24,3 @@ json2nim -h
 - [ ] Add support for `ref object` types
 - [ ] Experiemnt with JS version
 - [ ] Seperate JS and CLI version
-- [ ] Make a website for it?
